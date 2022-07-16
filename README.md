@@ -16,6 +16,6 @@
 ## Entre em contato comigo
 
 <div style="display: inline_block">
-<a href="malito:Rafaellsilveira1357@gmail.com"><img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:Rafaellsilveira1357@gmail.com"><img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rafael-silveira-4b8368219/"><img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>

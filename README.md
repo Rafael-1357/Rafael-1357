@@ -10,7 +10,7 @@
 
 ### Principal projeto
 
-- [ DASHFAST - Plataforma de controle de estoque e estatísticas ](https://github.com/Rafael-1357/dashfast)<br/>
+- [ DASHFAST - Plataforma de controle de estoque e estatísticas ](https://dashfast.epizy.com/home.php)<br/>
 <br/>
 
 ## Entre em contato comigo

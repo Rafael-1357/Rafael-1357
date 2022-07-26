@@ -10,7 +10,7 @@
 
 ### Principal projeto
 
-- [ DASHFAST - Plataforma de controle de estoque e estatísticas ](https://dashfast.epizy.com/home.php)<br/>
+- [ DASHFAST - Plataforma de controle de estoque e estatísticas ](https://dashfast.netlify.app)<br/>
 <br/>
 
 ## Entre em contato comigo

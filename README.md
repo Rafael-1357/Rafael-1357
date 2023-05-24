@@ -1,5 +1,15 @@
 # &lt;h1&gt; Hello World <img align="center" width="24" alt="html5" src="https://c.tenor.com/WXJXOkgr5FoAAAAj/smiley-emoji.gif" /> &lt;h1&gt;
 
+Me chamo Rafael e sou Front-End Developer.
+
+
+👩‍💻 Trabalho atualmente como freelancer
+
+🧠 Estou aprendendo reactJS
+
+⚡️ Jogador de jogos competitivos na categoria de FPS
+
+
 ### Tecnologias que uso atualmente
 
 <div style="display: inline_block">
@@ -10,7 +20,7 @@
 
 ### Principal projeto
 
-- [ DASHFAST - Plataforma de controle de estoque e estatísticas ](https://dashfast.netlify.app)<br/>
+- [ GDC - Plataforma que gera e personaliza contratos ](https://github.com/Rafael-1357/GDC)<br/>
 <br/>
 
 ## Entre em contato comigo

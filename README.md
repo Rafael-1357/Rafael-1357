@@ -1,4 +1,4 @@
-<h1> &lt;h1&gt; Hello World <img align="center" width="24" alt="html5" src="https://c.tenor.com/WXJXOkgr5FoAAAAj/smiley-emoji.gif" /> &lt;h1&gt; <h1>
+# &lt;h1&gt; Hello World <img align="center" width="24" alt="html5" src="https://c.tenor.com/WXJXOkgr5FoAAAAj/smiley-emoji.gif" /> &lt;h1&gt;
 
 ### Tecnologias que uso atualmente
 

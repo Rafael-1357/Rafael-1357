@@ -24,7 +24,7 @@ Me chamo Rafael e sou Front-End Developer.
 
 ### Principal projeto
 
-- [ GDC - Plataforma que gera e personaliza contratos ](https://github.com/Rafael-1357/GDC)<br/>
+- [ QUICK M - Plataforma para vendas e gerenciamento de estoque ]<br/>
 <br/>
 
 ## Entre em contato comigo

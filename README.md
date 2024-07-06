@@ -5,7 +5,7 @@ Me chamo Rafael e sou Front-End Developer.
 
 👩‍💻 Trabalho atualmente como freelancer
 
-🧠 Estou aprendendo
+🧠 Atuo com
   - ReactJS
   - Node
   - Tailwind

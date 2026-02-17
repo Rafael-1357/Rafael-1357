@@ -27,7 +27,11 @@ Me chamo Rafael e sou desenvolvedor FullStack.
 
 ### Principal projeto
 
-- [ DALAPA - Plataforma para gerenciamento financeiro ]<br/>
+- [ DALAPA - Plataforma para gerenciamento financeiro ] <a href="https://dalapa.vercel.app" target="_blank">
+  <img align="center" alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/>
 <br/>
 
 ## Entre em contato comigo
